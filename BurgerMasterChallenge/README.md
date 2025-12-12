@@ -4,13 +4,13 @@ A Java console application simulating a simplified fast-food restaurant ordering
 
 ## Project Structure
 
-BurgerHouse/ 
-├── Burger.java       # Base class for all burgers and specific subclasses (Cheeseburger, DeluxeBurger, etc.) 
-├── Drink.java        # Base class for all drinks and specific subclasses (Cola, IceTea, Sprite, etc.) 
-├── SideItem.java     # Base class for side orders and specific subclasses (MediumFries, LargeFries, etc.) 
-├── Meal.java         # Class responsible for handling user input to create specific meal components. 
-├── Main.java         # Main class containing the primary logic, user interface, and total cost calculation. 
-└── README.md         # This file 
+BurgerHouse/   
+├── Burger.java       # Base class for all burgers and specific subclasses (Cheeseburger, DeluxeBurger, etc.)   
+├── Drink.java        # Base class for all drinks and specific subclasses (Cola, IceTea, Sprite, etc.)   
+├── SideItem.java     # Base class for side orders and specific subclasses (MediumFries, LargeFries, etc.)   
+├── Meal.java         # Class responsible for handling user input to create specific meal components.   
+├── Main.java         # Main class containing the primary logic, user interface, and total cost calculation.   
+└── README.md         # This file    
 
 ## How to Use
 
